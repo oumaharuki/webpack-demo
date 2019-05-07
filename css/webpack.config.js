@@ -9,10 +9,10 @@ module.exports={
     module:{
         rules: [
             {
-                test: /\.css$/,
-                use: ["style-loader","css-loader"],
+                test: /\.(c|sa|sc)ss$/,
+                use: ["style-loader","css-loader","sass-loader"],
                 include: path.resolve(__dirname, 'css'),
-                exclude: path.resolve(__dirname, 'node_modules')
+                // exclude: path.resolve(__dirname, 'node_modules')
             },
         ]
     }

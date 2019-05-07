@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="672bbdad-b7fd-4bb1-892b-c2621f8d9e3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/.idea/entry.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/dist/index.3762c098b5343f29c95a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/dist/index.41ce901e1ea671328fd8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/dist/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/views/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/webpack-build.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry&amp;output&amp;mode/webpack.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/.idea/entry.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/dist/index.3762c098b5343f29c95a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/dist/index.41ce901e1ea671328fd8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/dist/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/views/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/webpack-build.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loader/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,18 +29,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/dist/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-600">
-              <caret line="112" column="58" selection-start-line="112" selection-start-column="58" selection-end-line="112" selection-end-column="58" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -132,8 +91,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="238" />
-    <option name="y" value="191" />
+    <option name="x" value="107" />
+    <option name="y" value="127" />
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
@@ -166,12 +125,6 @@
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="index.sass" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -228,7 +181,7 @@
     <option name="totallyTimeSpent" value="6989000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
