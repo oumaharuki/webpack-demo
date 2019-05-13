@@ -1,8 +1,8 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require("extract-text-webpack-plugin");
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const CleanWebpackPlugin = require('clean-webpack-plugin');
 const path = require('path');
-
 const getHtmlConfig=(name,title)=>
     new HtmlWebpackPlugin({
         template:`./views/${name}.html`,
@@ -20,7 +20,7 @@ module.exports={
     },
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'js/[name].js',
+        filename: 'js/[name].[hash].js',
     },
     devServer: {
         contentBase: path.join(__dirname, 'dist'),
@@ -75,9 +75,10 @@ module.exports={
     plugins: [
         // new ExtractTextPlugin("css/[name].css"),
         new MiniCssExtractPlugin({
-            filename: 'css/[name].css',
+            filename: 'css/[name].[hash].css',
             chunkFilename: '[id].css',
         }),
+        new CleanWebpackPlugin(),
         getHtmlConfig("index","首页1"),
         getHtmlConfig("news","news")
     ],

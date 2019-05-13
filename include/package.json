@@ -4,10 +4,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dist": "webpack --config webpack.config.js",
-    "dist2": "webpack --config webpack.config2.js",
-    "dist3": "webpack --config webpack.css.config.js",
-    "dist4": "webpack --config webpack.js.config.js"
+    "dist": "webpack --config webpack.config.js"
   },
   "author": "",
   "license": "ISC",

@@ -8,7 +8,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "path": "^0.12.7",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0"
   }
